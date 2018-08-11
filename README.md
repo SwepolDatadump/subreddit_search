@@ -32,6 +32,7 @@ weights = {
 }
  
 Search-functions:
+
 regex.search '\\b(%s)\\s?(%s)\\b{s<3,d<3,i<20,e<6} for long names
 
 regex.search '\\b(%s)\\W{s<1,d<1,i<1,e<1}' for short names
