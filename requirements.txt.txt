@@ -1,0 +1,6 @@
+#Required installs
+matplotlib == 2.2.2
+mysql-connector-python == 8.0.12
+numpy == 1.13.0 # Important, using python 3.6 higher versions break
+praw == 6.0.0
+regex == 2018.07.11
